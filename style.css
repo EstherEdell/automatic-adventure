@@ -2,3 +2,7 @@ body {
     background: pink;
     color: darkblue;
 }
+
+button {
+    border: 2px solid orange;
+}
